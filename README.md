@@ -21,3 +21,16 @@ The entire task was developed using Visual Studio Code (VS Code) as the primary 
 Further, aggregation operations such as total sales calculation, category-wise sales analysis, top-selling categories, order status distribution, and average sales per category were performed. These operations demonstrated how Dask efficiently executes group-by and aggregation tasks across partitions. To enhance scalability, the dataset was explicitly repartitioned to increase parallelism, and memory persistence was applied to speed up repeated computations. These actions clearly showcased how Dask scales computation by utilizing available system resources effectively. The deliverable for this task was a well-structured script/notebook containing all analysis steps, scalable operations, and insights derived from the dataset. The notebook included proper documentation, logical cell ordering, and clear explanations of each stage of analysis. This deliverable meets the internship requirement of demonstrating both technical understanding and practical application of big data tools. The concepts and techniques applied in this task are highly applicable in real-world scenarios. E-commerce companies like Amazon use similar large-scale data analysis to track sales performance, identify high-demand product categories, optimize logistics, and improve customer experience. Beyond e-commerce, such scalable data processing is applicable in finance, healthcare, social media analytics, supply chain management, and business intelligence systems where massive datasets must be processed efficiently.
 
 In conclusion, this task successfully demonstrates big data analysis using Dask on a large Amazon sales dataset. By leveraging scalable actions such as partitioning, lazy evaluation, and parallel computation, meaningful insights were extracted efficiently. The use of VS Code as a development platform further enhanced productivity and organization. Overall, this project highlights the importance of scalable big data tools and provides practical experience relevant to real-world data analytics applications.
+
+*OUTPUTS*:
+<img width="2557" height="1340" alt="Image" src="https://github.com/user-attachments/assets/10e227be-8cd0-4221-845c-5110d621008f" />
+
+<img width="2557" height="1339" alt="Image" src="https://github.com/user-attachments/assets/57957fd1-d2f3-4e04-9d6a-ab8ecdbc638b" />
+
+<img width="2555" height="1336" alt="Image" src="https://github.com/user-attachments/assets/05b84792-7a7c-422e-ac20-625cb4936f96" />
+
+<img width="2553" height="1339" alt="Image" src="https://github.com/user-attachments/assets/ef76d605-1f50-41a3-b75f-b6c4e9bb43f3" />
+
+<img width="2558" height="1336" alt="Image" src="https://github.com/user-attachments/assets/8494dc00-396b-4718-aee4-90e18ea6d39a" />
+
+<img width="2536" height="1338" alt="Image" src="https://github.com/user-attachments/assets/1a048dd5-9935-44a8-bef0-f3fbdf8723c4" />
